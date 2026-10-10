@@ -52,7 +52,7 @@ const popIn = {
 export default function AboutPage() {
   return (
     <div className="bg-slate-50 pt-20">
-      <section className="relative h-[70vh] flex items-center justify-center overflow-hidden">
+      <section className="relative h-[70vh] flex items-center lg:ps:55 overflow-hidden">
         <Image src="/about-construction.webp" alt="Ultratek Arabia construction" fill className="object-cover" priority />
         <div className="absolute inset-0 bg-linear-to-r from-slate-900/90 via-slate-900/80 to-slate-900/40" />
         {/* <motion.div
@@ -114,7 +114,7 @@ export default function AboutPage() {
             </div>
             <div className="mt-12 flex gap-12">
               <div>
-                <h3 className="text-4xl font-black text-blue-600 mb-1">22+</h3>
+                <h3 className="text-4xl font-black text-blue-600 mb-1">25+</h3>
                 <p className="text-slate-500 font-medium">Years Experience</p>
               </div>
               <div>

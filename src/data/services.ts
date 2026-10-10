@@ -69,26 +69,40 @@ As one of the best and top-rated companies in the industry, Ultratek Arabia ensu
   },
   {
     id: "3",
-    title: "Sandwich Panel",
+    title: "Sandwich Panel Installation",
     slug: "sandwich-panel",
     name: "sandwich-panel",
-    shortDescription: "Superior thermal resistance and airtight sealing for refrigerated warehouses.",
-    fullDescription: `Sandwich panels play a crucial role in building high-performance cold storage systems, offering the best insulation efficiency, structural strength, and long-lasting durability. Known for their superior thermal resistance and airtight sealing, these panels are considered one of the top solutions for maintaining stable temperatures in refrigerated warehouses, food processing units, and pharma storage environments.
+     shortDescription: "Precision installation of high-efficiency insulated panels for strict thermal management.",
+  fullDescription: `Professional sandwich panel installation is fundamental to constructing high-performance cold storage, cleanrooms, and climate-controlled facilities. The efficiency of an insulated space relies entirely on the precision of its assembly. Our expert installation workflows guarantee flawless joint alignment, continuous thermal barriers, and complete airtight sealing to prevent thermal bridging and structural moisture accumulation.
 
-Designed with advanced insulation cores and durable metal layers, sandwich panels ensure leading energy savings, improved hygiene, and exceptional protection against moisture and temperature fluctuations. Their lightweight construction allows for faster installation while ensuring strong performance and minimal maintenance.
+Utilizing advanced anchoring systems and industrial-grade vapor seals, our specialized crews install lightweight, high-load-bearing structural insulated panels (SIPs) efficiently. This precise deployment significantly reduces onsite construction timelines while establishing robust fire-resistance, hygienic surface compliance, and superior structural rigidity.
 
-As one of the best and most reliable panel systems in the industry, sandwich panels provided by Ultratek Arabia help businesses achieve higher efficiency, reduced energy costs, and long-term operational stability.`,
-    icon: SandwichPanelIcon,
-    image: "/sandwich-panel.webp",
-    faqs: [
-      { question: "How long do sandwich panels last?", answer: "With proper installation and maintenance, sandwich panels can last 20–30 years." },
-      { question: "Are sandwich panels suitable for large-scale cold storage projects?", answer: "Yes. Their modular design, high insulation, and structural strength make them the best solution for large warehouses." },
-      { question: "Why are sandwich panels considered a top option for industrial construction?", answer: "They are lightweight, strong, quick to install, and designed to resist moisture, fire, and corrosion." },
-      { question: "Do sandwich panels require specialized labor for installation?", answer: "No. Sandwich panels are designed for quick and easy assembly, reducing labor costs and project timelines." },
-      { question: "How do sandwich panels compare with traditional brick or concrete walls?", answer: "Sandwich panels are lighter, faster to install, better insulated, and more cost-effective." },
-      { question: "Why are Ultratek Arabia's sandwich panels considered the best in the market?", answer: "Ultratek Arabia offers top-quality, industry-leading sandwich panels with premium materials and expert installation." },
-    ],
-  },
+As a premier cold chain infrastructure partner, Ultratek Arabia delivers engineered installation services that guarantee maximum thermal envelope integrity, lowered HVAC operational loads, and decades of structural durability.`,
+  icon: SandwichPanelIcon,
+  image: "/sandwich-panel.webp",
+  faqs: [
+    { 
+      question: "Why is professional installation critical for sandwich panels?", 
+      answer: "Improper structural alignment or compromised joint sealing breaks the thermal envelope. Professional installation ensures seamless interlocking joints, continuous vapor barriers, and zero thermal bridging." 
+    },
+    { 
+      question: "What types of facilities benefit most from your sandwich panel installation?", 
+      answer: "Our installations are optimized for large-scale refrigerated warehouses, commercial blast freezers, pharmaceutical cleanrooms, food processing plants, and climate-controlled distribution hubs." 
+    },
+    { 
+      question: "How long does the installation process typically take?", 
+      answer: "Because sandwich panels utilize modular tongue-and-groove or cam-lock mechanics, they install up to 50% faster than traditional masonry layers. Timelines vary based on total square meters and framing configurations." 
+    },
+    { 
+      question: "How do you handle sealing and insulation at panel junctions?", 
+      answer: "We apply specialized low-conduction polyurethane foam, industrial silicone sealants, and custom flashing profiles at all wall-to-floor, wall-to-ceiling, and corner junctions to preserve airtight seals." 
+    },
+    { 
+      question: "What compliance standards do your panel installations meet?", 
+      answer: "Ultratek Arabia installs panels that meet strict international structural, fire-safety (FM Approved / Class 1), hygiene, and thermal performance certifications required for industrial operations." 
+    }
+  ],
+},
   {
     id: "4",
     title: "Warehouse Cooling System",
