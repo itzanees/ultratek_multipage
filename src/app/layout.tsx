@@ -26,6 +26,9 @@ export const metadata: Metadata = {
     "loading bay Jeddah", "refrigeration Saudi Arabia",
     "مستودعات التبريد السعودية", "غرف تبريد جدة",
   ],
+  verification: {
+    google:'aT7m9xT91dIfp3m0sXO3UFGeeP78SEpxsUdXMSeAe_4'
+  },
   authors: [{ name: "Ultratek Arabia" }],
   creator: "Ultratek Arabia",
   publisher: "Ultratek Arabia",
